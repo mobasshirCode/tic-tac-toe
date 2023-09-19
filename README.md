@@ -1,5 +1,5 @@
 # Tic Tac Toe GAME
-This is tic tac toe made with the help of HTML , CSS and Vanilla JS.
+This is tic tac toe made with the help of HTML , CSS and Vanilla Js.
 <br>
 It is a responsive app optimised for both desktop and mobile phones.
 <br> <br>
